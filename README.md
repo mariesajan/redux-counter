@@ -1,8 +1,6 @@
-## Todo App
-An example project done as part of learning **react, webpack, babel and **[redux](http://redux.js.org/)**
+## Redux Counter App
 
-This app helps you to get organized with the tasks. You can add/edit the items in the Todo List
-and can remove the completed items later.
+An example project done as part of learning **react, webpack, babel and **[redux](http://redux.js.org/)**
 
 A simple counter example. You can increment/decrement the counter here.
 
