@@ -1,6 +1,6 @@
 ## Redux Counter App
 
-An example project done as part of learning **react, webpack, babel and **[redux](http://redux.js.org/)**
+An example project done as part of learning **react, webpack, babel** and **[redux](http://redux.js.org/)** 
 
 A simple counter example. You can increment/decrement the counter here.
 
